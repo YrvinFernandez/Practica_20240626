@@ -69,11 +69,16 @@ p{
     border-radius: 6px;
     margin: 8px;
     margin-inline-start: 30px;
+ 
+}
+.link:hover{
+    background-color: rgb(194, 225, 102);    
 }
 a{
     color: white;
+    font-size: 14px; 
     text-decoration: none;
-    font-size: 14px;
-    
 }
-
+a:hover{
+    color: black;
+}
